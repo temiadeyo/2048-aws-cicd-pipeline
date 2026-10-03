@@ -1,0 +1,8 @@
+github_owner          = "your-github-username"
+github_repo           = "your-repository-name"
+github_repository_url = "https://github.com/your-github-username/your-repository-name.git"
+github_connection_arn = "arn:aws:codestar-connections:<region>:<account-id>:connection/<connection-id>"
+
+
+
+
