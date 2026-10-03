@@ -1,4 +1,4 @@
-# 2048 Game DevOps on AWS
+# 2048 Game CI/CD Pipeline on AWS
 
 ## Overview
 
